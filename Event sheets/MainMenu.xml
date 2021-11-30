@@ -151,11 +151,11 @@
                         </action>
                         <action id="0" name="Call function" sid="326311762535984" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
-                            <param id="1" name="Parameter {n}">0{###}192{###}192{###}3{###}&quot;Single attack&quot;{###}&quot;MenuModeSingle&quot;</param>
+                            <param id="1" name="Parameter {n}">0{###}192{###}192{###}3{###}&quot;Single attack :)&quot;{###}&quot;MenuModeSingle&quot;</param>
                         </action>
                         <action id="0" name="Call function" sid="516406951993025" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
-                            <param id="1" name="Parameter {n}">0{###}192{###}224{###}4{###}&quot;Custom attack&quot;{###}&quot;MenuModeCustom&quot;</param>
+                            <param id="1" name="Parameter {n}">0{###}192{###}224{###}4{###}&quot;Custom mode&quot;{###}&quot;MenuModeCustom&quot;</param>
                         </action>
                     </actions>
                 </event-block>
